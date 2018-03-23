@@ -4,5 +4,5 @@
 
 
 # Magic8Ball
-Ask Magiv8Ball a question and it will respond back to you. 
+Ask Magic8Ball a question and it will respond back to you. 
 
